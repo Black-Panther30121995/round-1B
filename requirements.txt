@@ -1,0 +1,7 @@
+PyMuPDF==1.22.3
+numpy
+sentence-transformers
+scikit-learn
+torch
+transformers
+spacy
